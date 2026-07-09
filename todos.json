@@ -2,6 +2,16 @@
   {
     "todo_id": 1,
     "todo_text": "Buy groceries",
-    "status": "completed"
+    "status": "uncompleted"
+  },
+  {
+    "todo_id": 3,
+    "todo_text": "hi",
+    "status": "uncompleted"
+  },
+  {
+    "todo_id": 4,
+    "todo_text": "hello",
+    "status": "uncompleted"
   }
 ]
